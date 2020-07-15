@@ -12,4 +12,4 @@ scanf("%d%d",&a,&b);
 c=a+b;
 return c;
 }
-
+hii ftns am bharathy
