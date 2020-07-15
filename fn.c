@@ -12,4 +12,4 @@ int rslt;
 rslt=num1+num2;
 printf("result is %d",rslt);
 }
-
+hello how are you
